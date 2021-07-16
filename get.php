@@ -27,7 +27,7 @@ if(!isset($_SESSION['access_token']))
 			<div class="col-md-9" align="center">
 				<table class="table table-hover table-bordered">
 					<tr>
-						<td>ID</td>
+						<td>User ID</td>
 						<td><?php echo $_SESSION['id']; ?></td>
 					</tr>
 					<tr>

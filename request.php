@@ -22,8 +22,8 @@ $userData = $oAuth->userinfo_v2_me->get();
 
 $_SESSION['id'] = $userData['id'];
 $_SESSION['email'] = $userData['email'];
-/* $_SESSION['gender'] = $userData['gender'];
 $_SESSION['picture'] = $userData['picture'];
+/* $_SESSION['gender'] = $userData['gender'];
 $_SESSION['familyName'] = $userData['familyName'];
 $_SESSION['givenName'] = $userData['givenName']; */
 
