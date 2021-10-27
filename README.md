@@ -14,4 +14,4 @@ Ushbu loyihadan foydalanish tartibi:
 3) Authorization scopes: <b>https://developers.google.com</b> sayti orqali, authorization scope ushbu saytda mavjud, siz loyihangizga copy and paste qilsangiz kifoya boladi. Bu orqali siz google account bilan kira olish imkoniyatiga ega bolasiz.
 
 
-Agar ushbu tartibni togri bajargan bolsangiz loyihani ishlatib korishingiz mumkin. <b>Bizning GitHub, Telegram, YouTube kanallarimizga obuna boling.</b>
+Agar ushbu tartibni togri bajargan bolsangiz loyihani ishlatib korishingiz mumkin. <b>Bizning GitHub, YouTube kanallarimizga obuna boling.</b>
