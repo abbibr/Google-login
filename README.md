@@ -1,6 +1,6 @@
 # Google-login
  
-Bu PHP dasturlash tilida qilingan loyiha. Bu orqali siz registratsiyadan otib turganizda Google accountiz orqali kirish imkoniyatiga egasiz. Bunda Google Api - PHP da foydalanilgan.
+<p>Bu PHP dasturlash tilida qilingan loyiha. Bu orqali siz registratsiyadan o`tib turganizda Google accountiz orqali kirish imkoniyatiga egasiz. Bunda Google Api - PHP da foydalanilgan.</p>
 
 Ushbu loyihadan foydalanish tartibi:
 
